@@ -137,3 +137,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+/Garry-Net/Garry-Net/bin/Debug/net8.0
+/Garry-Net/Garry-Net/obj
+/Garry-Net/Garry-Net/appsettings.json
+/Garry-Net/.vs
